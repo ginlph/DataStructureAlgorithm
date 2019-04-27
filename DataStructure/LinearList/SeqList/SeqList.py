@@ -1,1 +1,0 @@
-print("SeqList Data Structure")
